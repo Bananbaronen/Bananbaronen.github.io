@@ -12,6 +12,7 @@ ul {
 }
 li {
   float: right;
+  font-family: 'Staatliches', cursive;
 }
 li a {
 text-decoration: none;
