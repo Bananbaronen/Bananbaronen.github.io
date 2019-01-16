@@ -14,6 +14,7 @@ ul {
 li {
   float: right;
   font-family: 'Staatliches', cursive;
+  border-range: 15px;
 }
 li a {
 text-decoration: none;
