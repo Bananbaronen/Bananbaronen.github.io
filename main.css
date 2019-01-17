@@ -24,6 +24,7 @@ background: #000066;
 padding: 8px 9px;
 float: left;
 transition-duration: 1s;
+  border-radius: 15px;
 }
 li a:hover {
   background: #000099;
