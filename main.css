@@ -30,10 +30,10 @@ li a:hover {
   background: #000099;
 }
 .active {
-  background: #008000;
+  background: #00ff00;
 }
 .active:hover {
-  background: #008000;
+  background: #00ff00;
 }
 #me {
   display: block;
